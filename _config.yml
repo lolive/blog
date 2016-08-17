@@ -75,3 +75,7 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+prose:
+    - siteurl: http://lolive.github.io
+    - rooturl: '_posts'    
